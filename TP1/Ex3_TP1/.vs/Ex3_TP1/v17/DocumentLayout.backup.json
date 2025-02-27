@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\comptes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:comptes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\gestioncomptes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:gestioncomptes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|c:\\users\\pc\\source\\repos\\ex3_tp1\\ex3_tp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87982288-2A00-46BB-8204-8018985016B2}|Ex3_TP1.csproj|solutionrelative:ex3_tp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ex3_TP1",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Ex3_TP1.csproj",
+              "RelativeDocumentMoniker": "Ex3_TP1.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Ex3_TP1.csproj",
+              "RelativeToolTip": "Ex3_TP1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:27:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\users.json",
+              "RelativeDocumentMoniker": "users.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\users.json",
+              "RelativeToolTip": "users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T10:28:25.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "comptes.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\comptes.json",
+              "RelativeDocumentMoniker": "comptes.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\comptes.json",
+              "RelativeToolTip": "comptes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T10:27:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Utilisateur.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Utilisateur.cs",
+              "RelativeToolTip": "Utilisateur.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAzwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:23:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionComptes.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\GestionComptes.cs",
+              "RelativeDocumentMoniker": "GestionComptes.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\GestionComptes.cs",
+              "RelativeToolTip": "GestionComptes.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:23:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\CompteBancaire.cs",
+              "RelativeToolTip": "CompteBancaire.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:23:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Ex3_TP1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:22:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

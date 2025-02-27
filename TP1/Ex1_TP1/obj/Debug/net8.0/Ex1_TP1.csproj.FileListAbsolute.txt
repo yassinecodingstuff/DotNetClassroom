@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\bin\Debug\net8.0\Ex1_TP1.exe
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\bin\Debug\net8.0\Ex1_TP1.deps.json
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\bin\Debug\net8.0\Ex1_TP1.runtimeconfig.json
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\bin\Debug\net8.0\Ex1_TP1.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\bin\Debug\net8.0\Ex1_TP1.pdb
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.AssemblyInfo.cs
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\refint\Ex1_TP1.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.pdb
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\Ex1_TP1.genruntimeconfig.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP1\Exercice1\Ex1_TP1\obj\Debug\net8.0\ref\Ex1_TP1.dll

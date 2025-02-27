@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.AssemblyInfo.cs
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Ex3_TP1.exe
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Ex3_TP1.deps.json
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Ex3_TP1.runtimeconfig.json
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Ex3_TP1.dll
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Ex3_TP1.pdb
+C:\Users\pc\source\repos\Ex3_TP1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.csproj.Up2Date
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.dll
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\refint\Ex3_TP1.dll
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.pdb
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\Ex3_TP1.genruntimeconfig.cache
+C:\Users\pc\source\repos\Ex3_TP1\obj\Debug\net8.0\ref\Ex3_TP1.dll

@@ -1,0 +1,12 @@
+[
+  {
+    "Login": "admin",
+    "MotDePasse": "1234",
+    "Role": "Admin"
+  },
+  {
+    "Login": "client1",
+    "MotDePasse": "pass1",
+    "Role": "Client"
+  }
+]
