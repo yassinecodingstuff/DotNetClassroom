@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\ressourceshumaines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:ressourceshumaines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\iressourceshumaines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:iressourceshumaines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\administratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:administratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|c:\\users\\pc\\desktop\\dotnet\\dotnetclassroom\\tp1\\consoleapp1\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007D01A2-53CC-4E0C-9DF8-AB709AA29C38}|ConsoleApp1.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RessourcesHumaines.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\RessourcesHumaines.cs",
+              "RelativeDocumentMoniker": "RessourcesHumaines.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\RessourcesHumaines.cs*",
+              "RelativeToolTip": "RessourcesHumaines.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:34:32.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRessourcesHumaines.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\IRessourcesHumaines.cs",
+              "RelativeDocumentMoniker": "IRessourcesHumaines.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\IRessourcesHumaines.cs*",
+              "RelativeToolTip": "IRessourcesHumaines.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:34:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Groupe.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Groupe.cs",
+              "RelativeDocumentMoniker": "Groupe.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Groupe.cs*",
+              "RelativeToolTip": "Groupe.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:07:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administratif.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Administratif.cs",
+              "RelativeDocumentMoniker": "Administratif.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Administratif.cs*",
+              "RelativeToolTip": "Administratif.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:07:00.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:48:09.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Directeur.cs",
+              "RelativeDocumentMoniker": "Directeur.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Directeur.cs",
+              "RelativeToolTip": "Directeur.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:06:48.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Enseignant.cs",
+              "RelativeDocumentMoniker": "Enseignant.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Enseignant.cs*",
+              "RelativeToolTip": "Enseignant.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:07:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Personnel.cs",
+              "RelativeDocumentMoniker": "Personnel.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Personnel.cs*",
+              "RelativeToolTip": "Personnel.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:06:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Etudiant.cs*",
+              "RelativeToolTip": "Etudiant.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:06:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Personne.cs",
+              "RelativeDocumentMoniker": "Personne.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\DotNet\\DotNetClassroom\\TP1\\ConsoleApp1\\Personne.cs*",
+              "RelativeToolTip": "Personne.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:06:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

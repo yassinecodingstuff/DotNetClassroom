@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\bin\Debug\net8.0\DB.LIB.deps.json
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\bin\Debug\net8.0\DB.LIB.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\bin\Debug\net8.0\DB.LIB.pdb
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.AssemblyInfo.cs
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.sourcelink.json
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\refint\DB.LIB.dll
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\DB.LIB.pdb
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\DB.LIB\obj\Debug\net8.0\ref\DB.LIB.dll

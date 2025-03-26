@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\bin\Debug\TP5.exe.config
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\bin\Debug\TP5.exe
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\bin\Debug\TP5.pdb
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\obj\Debug\TP5.exe
+C:\Users\pc\Desktop\DotNet\DotNetClassroom\TP5\obj\Debug\TP5.pdb
